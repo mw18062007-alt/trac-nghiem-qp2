@@ -1,29 +1,32 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-  <meta charset="UTF-8" />
-  <title>Trắc nghiệm GDQP–AN</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <title>Web Trắc Nghiệm</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <div class="quiz-container">
-    <h1> Trắc nghiệm GDQP–AN 2</h1>
+<div class="quiz-container">
+  <h1 id="question">Câu hỏi</h1>
 
-    <div id="question"></div>
-    <div id="answers"></div>
-
-    <div class="nav-buttons">
-      <button id="back">⬅ Câu trước</button>
-      <button id="next" disabled>Câu sau ➡</button>
-    </div>
-
-    <div id="wrong-box" class="hidden">
-      <button id="retry">❌ Chọn lại</button>
-    </div>
+  <!-- Nhảy tới câu -->
+  <div class="jump-box">
+    <span>Đi tới câu:</span>
+    <input type="number" id="jumpInput" min="1">
+    <button id="jumpBtn">Đi</button>
   </div>
 
-  <script src="script.js"></script>
+  <div id="answers"></div>
+
+  <div class="nav">
+    <button id="backBtn">⬅ Câu trước</button>
+    <button id="nextBtn" disabled>Câu sau ➡</button>
+  </div>
+
+  <p id="feedback"></p>
+</div>
+
+<script src="script.js"></script>
 </body>
 </html>
