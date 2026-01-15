@@ -1314,7 +1314,8 @@
     "options": {
       "A": "Bảo vệ tài khoản cá nhân",
       "B": "Tạo thói quen quét virus",
-      "C": "Sao lưu dự phòng trên ổ cứng ngoài"
+      "C": "Sao lưu dự phòng trên ổ cứng ngoài",
+      "D": "Tất cả đều đúng."
     },
     "correct_answer": "D"
   },
@@ -1560,4 +1561,5 @@
     },
     "correct_answer": "D"
   }
+
 ]
