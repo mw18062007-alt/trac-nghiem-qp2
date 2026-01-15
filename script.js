@@ -1,74 +1,69 @@
-let quizData = [];
-let current = 0;
-let answeredCorrect = {}; // lưu trạng thái trả lời đúng
+let questions = [];
+let currentQuestionIndex = 0;
+let answeredCorrect = false;
 
-const questionEl = document.getElementById("question");
-const answersEl = document.getElementById("answers");
-const wrongBox = document.getElementById("wrong-box");
-const retryBtn = document.getElementById("retry");
-
-const backBtn = document.getElementById("back");
-const nextBtn = document.getElementById("next");
-
-// Load JSON
-fetch("data/questions.json")
+fetch("questions.json")
   .then(res => res.json())
   .then(data => {
-    quizData = data;
+    questions = data;
     loadQuestion();
   });
 
 function loadQuestion() {
-  wrongBox.classList.add("hidden");
-  answersEl.innerHTML = "";
-  nextBtn.disabled = !answeredCorrect[current];
+  const q = questions[currentQuestionIndex];
+  document.getElementById("question").innerText =
+    `Câu ${currentQuestionIndex + 1}: ${q.question}`;
 
-  const q = quizData[current];
-  questionEl.textContent = `Câu ${current + 1}: ${q.question}`;
+  const answersDiv = document.getElementById("answers");
+  answersDiv.innerHTML = "";
+  answeredCorrect = false;
+  document.getElementById("nextBtn").disabled = true;
+  document.getElementById("feedback").innerText = "";
 
-  for (const key in q.options) {
+  q.answers.forEach(ans => {
     const btn = document.createElement("button");
-    btn.className = "answer";
-    btn.textContent = `${key}. ${q.options[key]}`;
+    btn.innerText = ans.text;
 
-    if (answeredCorrect[current] && key === q.correct_answer) {
-      btn.classList.add("correct");
-    }
+    btn.onclick = () => {
+      if (answeredCorrect) return;
 
-    btn.onclick = () => checkAnswer(btn, key);
-    answersEl.appendChild(btn);
-  }
+      if (ans.correct) {
+        btn.classList.add("correct");
+        document.getElementById("feedback").innerText = "✔ Đúng!";
+        answeredCorrect = true;
+        document.getElementById("nextBtn").disabled = false;
+      } else {
+        btn.classList.add("wrong");
+        document.getElementById("feedback").innerText = "✖ Sai, chọn lại!";
+      }
+    };
 
-  backBtn.disabled = current === 0;
+    answersDiv.appendChild(btn);
+  });
 }
 
-function checkAnswer(button, selectedKey) {
-  const correctKey = quizData[current].correct_answer;
+// Back / Next
+document.getElementById("backBtn").onclick = () => {
+  if (currentQuestionIndex > 0) {
+    currentQuestionIndex--;
+    loadQuestion();
+  }
+};
 
-  if (selectedKey === correctKey) {
-    button.classList.add("correct");
-    answeredCorrect[current] = true;
-    nextBtn.disabled = false;
+document.getElementById("nextBtn").onclick = () => {
+  if (currentQuestionIndex < questions.length - 1) {
+    currentQuestionIndex++;
+    loadQuestion();
+  }
+};
+
+// Nhảy tới câu
+document.getElementById("jumpBtn").onclick = () => {
+  const n = parseInt(document.getElementById("jumpInput").value);
+  if (n >= 1 && n <= questions.length) {
+    currentQuestionIndex = n - 1;
+    loadQuestion();
   } else {
-    button.classList.add("wrong");
-    wrongBox.classList.remove("hidden");
-  }
-}
-
-retryBtn.onclick = () => {
-  loadQuestion();
-};
-
-backBtn.onclick = () => {
-  if (current > 0) {
-    current--;
-    loadQuestion();
-  }
-};
-
-nextBtn.onclick = () => {
-  if (current < quizData.length - 1 && answeredCorrect[current]) {
-    current++;
-    loadQuestion();
+    alert("Câu không tồn tại");
   }
 };
