@@ -1,0 +1,1563 @@
+[
+  {
+    "id": 1,
+    "question": "Bạo loạn lật đổ gồm có những hình thức nào:",
+    "options": {
+      "A": "Bạo loạn chính trị kết hợp với đấu tranh vũ trang và gây rối.",
+      "B": "Bạo loạn vũ trang kết hợp với bạo loạn chính trị và gây rối.",
+      "C": "Bạo loạn chính trị, bạo loạn vũ trang, kết hợp bạo loạn chính trị với vũ trang.",
+      "D": "Bạo loạn chính trị kết hợp với gây rối và vũ trang."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 2,
+    "question": "Quan hệ giữa “Diễn biến hoà bình” và bạo loạn lật đổ như thế nào?",
+    "options": {
+      "A": "Diễn biến hoà bình tạo thời cơ cho bạo loạn lật đổ.",
+      "B": "Diễn biến hoà bình là nguyên nhân của bạo loạn lật đổ.",
+      "C": "Diễn biến hoà bình là quá trình tạo nên những điều kiện, thời cơ cho bạo loạn lật đổ.",
+      "D": "Diễn biến hoà bình là quá trình tạo những điều kiện, thời cơ để kẻ thù tiến hành xâm lược."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "Đặc điểm gây rối là gì?",
+    "options": {
+      "A": "Diễn ra tự phát do bị các lực lượng quá khích kích động.",
+      "B": "Diễn ra bất ngờ, không gian hẹp, thời gian ngắn",
+      "C": "Diễn ra tự phát do các thế lực thù địch kích động",
+      "D": "Diễn ra tự phát do các phần tử chống đối trong xã hội"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Địch thường lợi dụng gây rối để làm gì?",
+    "options": {
+      "A": "Địch lợi dụng để tập duyệt âm mưu phá hoại, lật đổ chính quyền",
+      "B": "Địch lợi dụng để gây bạo loạn, gây chiến tranh",
+      "C": "Địch lợi dụng để tập duyệt hoặc mở màn cho bạo loạn lật đổ",
+      "D": "Địch lợi dụng để phá hoại, gây rối, mất trật tự an ninh."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Mục tiêu của các thế lực thù địch thực hiện “Diễn biến hoà bình” chống phá cách mạng Việt Nam",
+    "options": {
+      "A": "Xóa bỏ chế độ XHCN, chuyển hoá nước ta theo con đường tư bản chủ nghĩa.",
+      "B": "Xoá bỏ sự lãnh đạo của Đảng và buộc ta lệ thuộc vào chúng.",
+      "C": "Xoá bỏ vai trò lãnh đạo của Đảng, xoá bỏ chế độ XHCN.",
+      "D": "Xoá bỏ nhà nước XHCN và buộc ta chấp nhận các điều kiện của chúng."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "Mục đích thủ đoạn chống phá về kinh tế của các thế lực thù địch đối với nước ta là gì?",
+    "options": {
+      "A": "Chuyển hoá nền kinh tế Việt Nam, gây sức ép chính trị, cấm viện trợ, chuyển giao công nghệ.",
+      "B": "Ngăn cảm sự giúp đỡ, viện trợ, chuyển giao công nghệ của các nước để gây sức ép chính trị.",
+      "C": "Khích lệ kinh tế nhà nước phát triển trở thành thành phần kinh tế chủ đạo.",
+      "D": "Chuyển hoá nền kinh tế Việt Nam theo quỹ đạo kinh tế thị trường tư bản chủ nghĩa."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 7,
+    "question": "Một trong những nội dung chống phá về kinh tế của chiến lược “Diễn biến hoà bình”:",
+    "options": {
+      "A": "Khích lệ thành phần kinh tế tư nhân phát triển, từng bước làm mất vai trò chủ đạo của thành phần kinh tế Nhà nước.",
+      "B": "Khích lệ kinh tế 100% vốn nước ngoài phát triển, làm mất vai trò chủ đạo của thành phần kinh tế Nhà nước.",
+      "C": "Khích lệ kinh tế cá thể, tiểu chủ phát triển, làm mất vai trò chủ đạo của thành phần kinh tế Nhà nước.",
+      "D": "Khích lệ kinh tế tư bản Nhà nước phát triển, làm mất vai trò chủ đạo của thành phần kinh tế Nhà nước."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "Kẻ thù thực hiện thủ đoạn diễn biến hoà bình phá hoại kinh tế của ta nhằm:",
+    "options": {
+      "A": "Đặt ra các điều kiện để buộc ta phải theo quĩ đạo của chúng.",
+      "B": "Đặt ra các điều kiện và tạo cớ để tiến công quân sự.",
+      "C": "Đặt ra các điều kiện và gây sức ép về chính trị.",
+      "D": "Đặt ra các điều kiện để lật đổ hệ thống chính trị."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Một trong những nội dung kẻ thù thực hiện chống phá ta về chính trị:",
+    "options": {
+      "A": "Phá vỡ khối đại đoàn kết toàn dân của các tổ chức chính trị.",
+      "B": "Chia rẽ nội bộ, kích động gây rối loạn các tổ chức trong xã hội.",
+      "C": "Cô lập Đảng Cộng sản Việt Nam, Nhà nước XHCN với quân đội và nhân dân.",
+      "D": "Kích động đòi thực hiện chế độ “đa nguyên chính trị, đa Đảng đối lập”."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 10,
+    "question": "Một trong những nội dung chống phá về chính trị trong chiến lược “Diễn biến hoà bình”",
+    "options": {
+      "A": "Đối lập Chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh",
+      "B": "Phủ định Chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh và đường lối của Đảng",
+      "C": "Đối lập nhiệm vụ kinh tế- xã hội và quốc phòng – an ninh",
+      "D": "Chia rẽ mối quan hệ giữa Đảng với nhân dân và khối đại đoàn kết toàn dân tộc"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 11,
+    "question": "Một trong những nội dung chống phá về chính trị trong chiến lược “Diễn biến hoà bình”",
+    "options": {
+      "A": "Phá vỡ hệ thống nguyên tắc tổ chức trong bộ máy Nhà nước ta.",
+      "B": "Phá vỡ sự thống nhất của các tổ chức, nhất là tổ chức chính trị.",
+      "C": "Phá vỡ sự thống nhất của khối đại đoàn kết toàn dân tộc dưới sự lãnh đạo của Đảng.",
+      "D": "Phá vỡ nguyên tắc tổ chức của Đảng, nhất là nguyên tắc tập trung dân chủ."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 12,
+    "question": "Chống phá ta về tư tưởng-văn hoá trong chiến lược “DBHB” bạo loạn lật đổ nhằm:",
+    "options": {
+      "A": "Xoá bỏ chủ nghĩa Mác – Lê nin và tư tưởng Hồ Chí Minh",
+      "B": "Phá hoại sự đoàn kết của toàn đảng, toàn quân, toàn dân.",
+      "C": "Phá hoại nguyên tắc tập trung dân chủ của Đảng và Nhà nước ta",
+      "D": "Phá hoại, xuyên tạc đường lối đổi mới của Đảng và Nhà nước ta."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "Thực hiện thủ đoạn “Diễn biến hoà bình” về văn hoá, kẻ thù tập trung tấn công:",
+    "options": {
+      "A": "Vào truyền thống yêu nước và giá trị của văn hoá Việt Nam.",
+      "B": "Vào những sản phẩm văn hoá quý báu của dân tộc Việt Nam.",
+      "C": "Vào bản sắc văn hoá và giá trị văn hoá của dân tộc Việt Nam.",
+      "D": "Vào nền văn hoá mang bản sắc dân tộc Việt Nam."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "Các thế lực thù địch \"Lợi dụng vấn đề tôn giáo – dân tộc\" để chống phá ta như thế nào?",
+    "options": {
+      "A": "Lợi dụng chính sách bình đẳng, tự do dân chủ của ta",
+      "B": "Lợi dụng chính sách tự do tôn giáo của Đảng, Nhà nước ta để truyền đạo trái phép.",
+      "C": "Lợi dụng những sai sót, sơ hở của Đảng và nhà nước ta để vu cáo.",
+      "D": "Triệt để lợi dụng, dân chủ, tự do của ta để tuyên truyền xuyên tạc."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Thủ đoạn “Diễn biến hoà bình”, kẻ thù triệt để lợi dụng chính sách tự do tôn giáo của Đảng ta để:",
+    "options": {
+      "A": "Truyền bá mê tín dị đoan và tư tưởng phản động chống chủ nghĩa xã hội.",
+      "B": "Truyền đạo trái phép nhằm thực hiện âm mưu tôn giáo hoá dân tộc.",
+      "C": "Truyền bá mê tín dị đoan, tập hợp lực lượng để chống phá cách mạng.",
+      "D": "Truyền bá mê tín và tổ chức lực lượng khủng bố."
+    },
+    "correct_answer":"B"
+  },
+  {
+    "id": 16,
+    "question": "Một trong những nội dung kẻ thù lợi dụng để chống phá cách mạng Việt Nam về vấn đề dân tộc là:",
+    "options": {
+      "A": "Lợi dụng các mâu thuẫn của đồng bào dân tộc để kích động.",
+      "B": "Lợi dụng các hủ tục lạc hậu của đồng bào dân tộc để kích động.",
+      "C": "Lợi dụng tư tưởng đòi li khai, tự quyết dân tộc để kích động.",
+      "D": "Lợi dụng các mâu thuẫn giữa các dân tộc do nhiều nguyên nhân gây ra."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Một trong những thủ đoạn chống phá trên lĩnh vực quốc phòng, an ninh:",
+    "options": {
+      "A": "Đòi tách quân đội, công  an  với các tổ chức chính trị xã hội khác",
+      "B": "Đòi phi chính trị hóa đối với lực lượng quân đội nhân dân Việt Nam",
+      "C": "Đòi phủ nhận vai trò lãnh đạo của Đảng trong lĩnh vực quốc phòng, an ninh",
+      "D": "Đòi quân đội và công an là lực lượng trung lập, tách rời sự lãnh đạo của đảng"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Một trong những thủ đoạn chống phá trên lĩnh vực đối ngoại trong chiến lược “Diễn biến hoà bình”:",
+    "options": {
+      "A": "Chia rẽ Việt Nam với các nước xã hội chủ nghĩa và các nước tiến bộ.",
+      "B": "Chia rẽ Việt Nam với Lào và các nước xã hội chủ nghĩa.",
+      "C": "Chia rẽ Việt Nam với Campuchia và các nước tiến bộ.",
+      "D": "Chia rẽ Việt Nam với Lào, Campuchia và các nước xã hội chủ nghĩa."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 19,
+    "question": "Trong các thủ đoạn sau, thủ đoạn nào không phải của chiến lược diễn biến hòa bình?",
+    "options": {
+      "A": "Xâm nhập về văn hóa",
+      "B": "Phát động chiến tranh hạt nhân",
+      "C": "Chống phá về chính trị tư tưởng",
+      "D": "Vô hiệu hóa lực lượng vũ trang"
+    },
+    "correct_answer":"B"
+  },
+  {
+    "id": 20,
+    "question": "Trong quá trình bạo loạn, bọn phản động tìm mọi cách để:",
+    "options": {
+      "A": "Mở rộng quy mô, lực lượng, kêu gọi nước ngoài can thiệp.",
+      "B": "Mở rộng phạm vi, quy mô, lực lượng, kêu gọi tài trợ của nước ngoài.",
+      "C": "Mở rộng phạm vi, quy mô, lực lượng, đập phá trụ sở, uy hiếp chính quyền địa phương.",
+      "D": "Mở rộng phạm vi, quy mô, lực lượng, đập phá trụ sở, lật đổ chính quyền địa phương."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "Nguyên tắc xử lí khi có bạo loạn diễn ra là:",
+    "options": {
+      "A": "Nhanh gọn, kiên quyết, linh hoạt, đúng đối tượng, không để lan rộng, kéo dài.",
+      "B": "Nhanh gọn, kiên quyết, triệt để đúng đối tượng, không để lan rộng, kéo dài.",
+      "C": "Nhanh gọn, linh hoạt, khôn khéo đúng đối tượng, không để lan rộng, kéo dài.",
+      "D": "Nhanh gọn, kiên quyết, linh hoạt, mềm dẻo đúng đối tượng, không để lan rộng, kéo dài."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Một trong những mục tiêu phòng chống chiến lược “Diễn biến hoà bình”:",
+    "options": {
+      "A": "Bảo vệ vững chắc nhà nước XHCN.",
+      "B": "Giữ vững ổn định chính trị - xã hội của đất nước",
+      "C": "Bảo vệ vững chắc độc lập, chủ quyền của quốc gia, dân tộc",
+      "D": "Bảo vệ vững chắc toàn vẹn lãnh thổ của Tổ quốc."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Để góp phần làm thất bại chiến lược “Diễn biến hoà bình”, bạo loạn lật đổ cần nắm vững một trong những mục tiêu?",
+    "options": {
+      "A": "Bảo vệ sự  nghiệp công nghiệp hoá, hiện đại hóa đất nước.",
+      "B": "Bảo vệ tính mạng và tài sản của nhân dân.",
+      "C": "Bảo vệ sự nghiệp đổi mới và lợi ích quốc gia, dân tộc.",
+      "D": "Bảo vệ An ninh Chính trị của đất  nước."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "Nhiệm vụ phòng chống chiến lược “Diễn biến hoà bình”, bạo loạn lật đổ được xác định là:",
+    "options": {
+      "A": "Nhiệm vụ cấp bách hàng đầu và là nhiệm vụ thường xuyên, lâu dài.",
+      "B": "Nhiệm vụ chủ yếu trước mắt trong các nhiệm vụ QP- AN ở nước ta hiện nay.",
+      "C": "Nhiệm vụ cơ bản lâu dài trong các nhiệm vụ QP- AN ở nước ta hiện nay.",
+      "D": "Nhiệm vụ trọng tâm hàng đầu và là nhiệm vụ thường xuyên, lâu dài."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "Một trong những quan điểm trong đấu tranh phòng chống chiến lược “Diễn biến hoà bình”:",
+    "options": {
+      "A": "Là một cuộc đấu tranh dân tộc rất gay go, quyết liệt trên mọi lĩnh vực.",
+      "B": "Là một cuộc đấu tranh giai cấp gay go, quyết liệt, lâu dài và phức tạp trên mọi lĩnh vực.",
+      "C": "Là cuộc đấu tranh giai cấp; dân tộc gay go, quyết liệt, lâu dài và phức tạp trên mọi lĩnh vực.",
+      "D": "Là một cuộc đấu tranh giải quyết vấn đề ai thắng ai giữa chủ nghĩa tư bản và chủ nghĩa xã hội."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 26,
+    "question": "Phòng chống chiến lược “DBHB”, bạo loạn lật đổ cần phát huy sức mạnh tổng hợp của:",
+    "options": {
+      "A": "Toàn dân dưới sự lãnh đạo của Đảng Cộng sản Việt Nam.",
+      "B": "Toàn dân, toàn quân dưới sự lãnh đạo của Đảng Cộng sản Việt Nam.",
+      "C": "Toàn dân, lực lượng vũ trang dưới sự lãnh đạo của Đảng Cộng sản Việt Nam.",
+      "D": "Toàn dân, của cả hệ thống chính trị dưới sự lãnh đạo của Đảng Cộng sản Việt Nam."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 27,
+    "question": "Nghị quyết 04 của BCHTW khóa XII chỉ ra bao nhiêu biểu hiện “tự diễn biến”, “tự chuyển hóa”?",
+    "options": {
+      "A": "25 biểu hiện",
+      "B": "27 biểu hiện",
+      "C": "29 biểu hiện",
+      "D": "30 biểu hiện"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "Một trong những giải pháp phòng chống chiến lược “Diễn biến hoà bình”, bạo loạn lật đổ",
+    "options": {
+      "A": "Nâng cao nhận thức về âm mưu phá hoại của kẻ thù.",
+      "B": "Xây dựng ý thức bảo vệ Tổ quốc cho toàn dân.",
+      "C": "Xây dựng các tổ chức chính trị vững mạnh.",
+      "D": "Xây dựng các lực lượng vũ trang đặc biệt là công an vững mạnh."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 29,
+    "question": "Một trong những giải pháp phòng chống chiến lược diễn biến hoà bình, bạo loạn lật đổ:",
+    "options": {
+      "A": "Đẩy mạnh công nghiệp hoá hiện đại hoá, chống nguy cơ tụt hậu kinh tế.",
+      "B": "Xây dựng cơ sở chính trị -  xã hội vững mạnh về mọi mặt.",
+      "C": "Đẩy lùi các hủ tục lạc hậu, mê tín dị đoan và các tệ nạn xã hội.",
+      "D": "Xây dựng lòng yêu nước cho tuổi trẻ nhất là học sinh, sinh viên."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "Một trong những giải pháp phòng chống chiến lược “Diễn biến hòa bình”, bạo loạn lật đổ:",
+    "options": {
+      "A": "Tăng cường quan hệ đối ngoại với các nước, các chế độ chính trị trên thế giới.",
+      "B": "Xây dựng, luyện tập các phương án, các tình huống chống “Diễn biến hòa bình”, BLLĐ.",
+      "C": "Tăng cường quan hệ với các nước xã hội chủ nghĩa và các đảng cộng sản trên thế giới.",
+      "D": "Xây dựng lực lượng chuyên trách để phòng chống “Diễn biến hòa bình”, bạo loạn lật đổ."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 31,
+    "question": "Sinh viên cần làm gì để góp phần làm thất bại chiến lược \"DBHB\", BLLĐ của kẻ thù:",
+    "options": {
+      "A": "Luôn học tập phấn đấu, nâng cao cảnh giác tự bảo vệ mình, bảo vệ nơi mình cư trú.",
+      "B": "Luôn nâng cao cảnh giác tích cực tham gia các hoạt động phong trào ở nhà trường và địa phương.",
+      "C": "Tích cực học tập, rèn luyện, nâng cao tinh thần cảnh giác cách mạng, phát hiện, đấu tranh, ngăn ngừa",
+      "D": "Tích cực học tập, rèn luyện tham gia xây dựng thế trận quốc phòng, an ninh nhân dân trong mọi tình huống."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 32,
+    "question": "Xu thế lớn trong mối quan hệ giữa các dân tộc trên thế giới trong giai đoạn hiện nay:",
+    "options": {
+      "A": "Toàn cầu hóa diễn biến phức tạp.",
+      "B": "Hòa bình hợp tác và phát triển",
+      "C": "Xung đột dân tộc, sắc tộc, tôn giáo, chạy đua vũ trang.",
+      "D": "Độc lập,tự chủ, tự lực, tự cường, chống can thiệp."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 33,
+    "question": "Quan hệ dân tộc, sắc tộc hiện nay trên thế giới vẫn diễn ra phức tạp ở phạm vi:",
+    "options": {
+      "A": "Châu Phi và châu Mỹ Latinh.",
+      "B": "Châu Á và châu Âu.",
+      "C": "Các nước xã hội chủ nghĩa.",
+      "D": "Quốc gia, khu vực và quốc tế."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 34,
+    "question": "Vấn đề dân tộc, sắc tộc đã gây nên những hậu quả nặng nề về lĩnh vực nào?",
+    "options": {
+      "A": "Văn hoá, xã hội, đe doạ hoà bình thế gới",
+      "B": "Văn hóa, quân sự, chính trị, an ninh toàn bộ khu vực và quốc tế.",
+      "C": "Kinh tế, chính trị, văn hoá, xã hội, môi trường cho các quốc gia,",
+      "D": "Kinh tế, khủng hoảng kinh tế, tài chính thế giới"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 35,
+    "question": "Một trong những nội dung giải quyết vấn đề dân tộc theo quan điểm của Lênin:",
+    "options": {
+      "A": "Các dân tộc phải phân chia đẳng cấp rõ ràng.",
+      "B": "Các dân tộc hoàn toàn bình đẳng.",
+      "C": "Các dân tộc phải tự trị ly khai.",
+      "D": "Các dân tộc phải có nền văn hoá chung."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 36,
+    "question": "Tư tưởng Hồ Chí Minh, về nội dung giải quyết vấn đề dân tộc:",
+    "options": {
+      "A": "Phải toàn diện, phong phú, sâu sắc, khoa học và cách mạng.",
+      "B": "Phải xây dựng quan hệ tốt đẹp giữa các dân tộc trong đại gia đình các dân tộc Việt Nam.",
+      "C": "Phải xây dựng quan hệ tốt đẹp giữa dân tộc Việt Nam với các quốc gia, dân tộc trên thế giới.",
+      "D": "Phải bình đẳng, đoàn kết, tôn trọng và giúp đỡ cùng phát triển."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 37,
+    "question": "Đồng bào các dân tộc Jrai, Êđê, BaNa sinh sống chủ yếu ở khu vực nào?",
+    "options": {
+      "A": "Các tỉnh Tây Nguyên",
+      "B": "Ở các tỉnh miền núi tiếp giáp biên giới",
+      "C": "Các tỉnh Nam Trung Bộ",
+      "D": "Các tỉnh miền núi phía Bắc"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 38,
+    "question": "Một trong những đặc trưng của các dân tộc Việt Nam là:",
+    "options": {
+      "A": "Là lịch sử đánh giặc ngoại xâm",
+      "B": "Có truyền thống đoàn kết, gắn bó xây dựng Quốc gia thống nhất",
+      "C": "Đoàn kết gắn bó trong chiến tranh bảo vệ Tổ quốc xã hội chủ nghĩa",
+      "D": "Cần cù sáng tạo trong xây dựng đất nước"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 39,
+    "question": "Một trong những đặc trưng của các dân tộc ở Việt Nam là:",
+    "options": {
+      "A": "Các dân tộc thiểu số ở Việt Nam cư trú du canh, du cư.",
+      "B": "Các dân tộc thiểu số ở Việt Nam cư trú tập trung.",
+      "C": "Các dân tộc thiểu số ở Việt Nam cư trú ở rừng núi.",
+      "D": "Các dân tộc thiểu số ở Việt Nam cư trú phân tán và xen kẽ."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 40,
+    "question": "Một trong những đặc trưng của các dân tộc ở Việt Nam là:",
+    "options": {
+      "A": "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển cao.",
+      "B": "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển còn hạn chế.",
+      "C": "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển không đều.",
+      "D": "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển đồng đều."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 41,
+    "question": "Thực hiện chính sách dân tộc của Đảng, cần chống các biểu hiện gì?",
+    "options": {
+      "A": "Tư tưởng dân tộc lớn, Kì thị, hẹp hòi, chia rẽ dân tộc",
+      "B": "Thiếu hiểu biết các phong tục tập quán các dân tộc Việt Nam",
+      "C": "Lợi dụng vấn đề dân tộc đòi tự trị gây mất ổn định chính trị.",
+      "D": "Lợi dụng vấn đề dân tộc để chống phá khối đại đoàn kết dân tộc"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 42,
+    "question": "Tôn giáo là gì?",
+    "options": {
+      "A": "Là một hình thức ý thức xã hội, phản ánh hiện thực khách quan, theo quan niệm hoang đường.",
+      "B": "Là một hình thái ý thức xã hội, phản ánh hiện thực khách quan, theo quan niệm hoang đường.",
+      "C": "Là một hình thái phản ánh ý thức xã hội, hiện thực khách quan, theo quan niệm hoang đường.",
+      "D": "Là sự nhận thức, phản ánh hiện thực khách quan, theo quan điểm hoang đường."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 43,
+    "question": "Tôn giáo là một hình thái ý thức xã hội, phản ánh hiện thực khách quan, theo:",
+    "options": {
+      "A": "Trào lưu của xã hội phù hợp với tư tưởng, tình cảm, niềm tin của con người",
+      "B": "Quy luật phát triển của đời sống xã hội, được mọi người tin tưởng tham gia",
+      "C": "Quan niệm hoang đường, ảo tưởng, phù hợp với tâm lý, hành vi của con người.",
+      "D": "Chuẩn mực đạo đức, truyền thống được con người tiếp nhận tin theo"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 44,
+    "question": "Trong đời sống xã hội, tôn giáo là một cộng đồng xã hội có yếu tố nào sau đây?",
+    "options": {
+      "A": "Hệ thống tôn giáo với các hoạt động của tu sĩ",
+      "B": "Hệ thống giáo lý; nghi lễ và tổ chức tôn giáo",
+      "C": "Tín ngưỡng tôn giáo, các hoạt động tôn giáo trong nước",
+      "D": "Hệ thống chính trị của tôn giáo và tín ngưỡng."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 45,
+    "question": "Tôn giáo có nguồn gốc từ các yếu tố:",
+    "options": {
+      "A": "Kinh tế - xã hội, ý thức và hành vi.",
+      "B": "Chính trị xã hội, tinh thần và tâm lý.",
+      "C": "Kinh tế - xã hội, nhận thức và tâm lý.",
+      "D": "Chính trị - xã hội, kinh tế và tinh thần."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 46,
+    "question": "“Tình cảm, cảm xúc, tâm trạng lo âu, sợ hải…đã dẫn con người đến sự khuất phục”. Nội dung này muốn nói đến nguồn gốc nào của tôn giáo?",
+    "options": {
+      "A": "Nguồn gốc nhận thức của tôn giáo.",
+      "B": "Nguồn gốc kinh tế - xã hội.",
+      "C": "Nguồn gốc tâm lý của tôn giáo.",
+      "D": "Nguồn gốc nhận thức, tâm lý."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 47,
+    "question": "Một trong những nguyên nhân làm cho tôn giáo tiếp tục tồn tại và phát triển là gì?",
+    "options": {
+      "A": "Con người còn  phụ thuộc vào sự phát triển của khoa học kỹ thuật.",
+      "B": "Con người vẫn chưa làm chủ hoàn toàn tự nhiên, xã hội và tư duy.",
+      "C": "Do thiên tai, song thần, động đất…, ảnh hưởng đến dời sống xã hội.",
+      "D": "Tất cả a, b,c đều đúng."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 48,
+    "question": "Khi nào thì tôn giáo mất đi?",
+    "options": {
+      "A": "Khi những nguồn gốc sinh ra tôn giáo mất đi",
+      "B": "Khi con người làm chủ hoàn toàn tự nhiên, xã hội và tư duy.",
+      "C": "Khi chế độ CNXH được xây dựng thành công trên phạm vi toàn thế giới.",
+      "D": "Tôn giáo không bao giờ mất đi."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 49,
+    "question": "Xung đột giữa các tôn giáo thể hiện tính chất gì của tôn giáo?",
+    "options": {
+      "A": "Tính lịch sử .",
+      "B": "Tính quần chúng .",
+      "C": "Tính chính trị .",
+      "D": "Tất cả a, b,c đều đúng."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 50,
+    "question": "Giải quyết vấn đề tôn giáo phải gắn với quá trình nào?",
+    "options": {
+      "A": "Xóa bỏ xã hội cũ, tiến hành đổi mới toàn diện xã hội",
+      "B": "Xây dựng xã hội mới, đồng thời.tiến hành đổi mới toàn diện xã hội cũ",
+      "C": "Cải tạo xã hội cũ, xây dựng xã hội mới - xã hội xã hội chủ nghĩa.",
+      "D": "Cải tạo xã hội cũ, tiến hành đổi mới toàn diện xã hội"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 51,
+    "question": "Theo quan điểm của Chủ nghĩa Mác - Lênin, giải quyết vấn đề tôn giáo trong cách mạng XHCN là:",
+    "options": {
+      "A": "Quán triệt quan điểm tôn trọng luật pháp.",
+      "B": "Quán triệt quan điểm lịch sử cụ thể.",
+      "C": "Quán triệt quan điểm tôn trọng quần chúng.",
+      "D": "Quán triệt quan điểm tôn trọng giáo lý."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 52,
+    "question": "Nội dung cốt lõi của công tác tôn giáo ở Việt Nam là:",
+    "options": {
+      "A": "Vận động quần chúng sống “kính chúa yêu nước”.",
+      "B": "Vận động quần chúng sống “phúc âm trong lòng dân tộc”.",
+      "C": "Vận động quần chúng sống “tốt đời, đẹp đạo”.",
+      "D": "Vận động quần chúng sống “từ bi, bác ái”."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 53,
+    "question": "Để vô hiệu hoá sự lợi dụng vấn đề dân tộc, tôn giáo ở Việt Nam, giải pháp chung cơ bản nhất là:",
+    "options": {
+      "A": "Thực hiện tốt chính sách đại đoàn kết toàn dân tộc.",
+      "B": "Thực hiện tốt chính sách phát triển kinh tế - xã hội.",
+      "C": "Thực hiện tốt chính sách xoá đói giảm nghèo.",
+      "D": "Thực hiện tốt chính sách đền ơn đáp nghĩa."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 54,
+    "question": "Môi trường là gì?",
+    "options": {
+      "A": "Là sản phẩm của tự nhiên và những yếu tố do con người tạo ra.",
+      "B": "Là hệ thống các lĩnh vực về tự nhiên, xã hôi có tác động đến con người.",
+      "C": "Là hệ thống các yếu tố sẵn có trong tự nhiên có tác động đến con người và sinh vật.",
+      "D": "Là hệ thống các yếu tố vật chất tự nhiên và nhân tạo có tác động đối với con người và sinh vật."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 55,
+    "question": "Thành phần môi trường gồm?",
+    "options": {
+      "A": "Đất, nước, không khí",
+      "B": "Âm thanh, ánh sáng",
+      "C": "Sinh vật và các hình thái vật chất khác",
+      "D": "Tất cả đều đúng"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 56,
+    "question": "Một trong các nội dung của pháp luật về bảo vệ môi trường là?",
+    "options": {
+      "A": "Phòng ngừa, hạn chế các hành vi tác động xấu đến môi trường",
+      "B": "Phòng ngừa, hạn chế các tác động xấu đến môi trường",
+      "C": "Phòng ngừa các tác động ảnh hưởng đến môi trường sinh thái",
+      "D": "Phòng ngừa các hành vi hủy hoại đến lĩnh vực môi trường"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 57,
+    "question": "Một trong các nội dung của pháp luật về bảo vệ môi trường là?",
+    "options": {
+      "A": "Khắc phục ô nhiễm, suy thoái, cải thiện, phục hồi môi trường",
+      "B": "Phòng ngừa các tác động ảnh hưởng đến môi trường sinh thái",
+      "C": "Khai thác, bảo vệ sử dụng có kế hoạch môi trường tài nguyên",
+      "D": "Tất cả đều đúng"
+    },
+    "correct_answer":"A"
+  },
+  {
+    "id": 58,
+    "question": "Vai trò của pháp luật trong công tác bảo vệ môi trường là?",
+    "options": {
+      "A": "Xây dựng hệ thống các quy chuẩn; tiêu chuẩn môi trường để bảo vệ môi trường.",
+      "B": "Qui định trách nhiệm của các tổ chức, cá nhân trong bảo vệ môi trường",
+      "C": "Xây dựng hệ thống các văn bản mang tính pháp lý để bảo vệ môi trường",
+      "D": "Xây dựng hệ thống các văn bản, qui phạm pháp luật về lĩnh vực môi trường"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 59,
+    "question": "Vai trò của pháp luật trong công tác bảo vệ môi trường là?",
+    "options": {
+      "A": "Qui định trách nhiệm của các tổ chức, cá nhân trong bảo vệ môi trường",
+      "B": "Giải quyết các tranh chấp liên quan đến bảo vệ môi trường.",
+      "C": "Phòng ngừa, hạn chế các hành vi tác động xấu đến môi trường",
+      "D": "Khai thác, bảo vệ sử dụng có kế hoạch môi trường tài nguyên"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 60,
+    "question": "Một trong những quy định của pháp luật về bảo vệ môi trường là?",
+    "options": {
+      "A": "Qui định về phòng ngừa các tác động ảnh hưởng đến môi trường sinh thái",
+      "B": "Qui định các mức phạt cụ thể ảnh hưởng đến bảo vệ môi trường",
+      "C": "Pháp luật về tổ chức, quản lý các hoạt động bảo vệ môi trường",
+      "D": "Pháp luật về nghiêm cấm các hành vi vi phạm đến bảo vệ môi trường"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 61,
+    "question": "Một trong những quy định của pháp luật về bảo vệ môi trường là?",
+    "options": {
+      "A": "Pháp luật xử lý vi phạm trong lĩnh vực bảo vệ môi trường",
+      "B": "Pháp luật về nghiêm cấm các hành vi vi phạm đến bảo vệ môi trường",
+      "C": "Pháp luật về các mức phạt cụ thể đối với hành vi vi phạm đến bảo vệ môi trường",
+      "D": "Pháp luật qui định các hành vi phải chịu trách nhiệm hình sự về bảo vệ môi trường"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 62,
+    "question": "Hình thức vi phạm pháp luật về bảo vệ môi trường là?",
+    "options": {
+      "A": "Tội phạm về môi trường và vi phạm hành chính trong lĩnh vực bảo vệ môi trường",
+      "B": "Chống người thi hành công vụ trong lĩnh vực bảo vệ môi trường sinh thái",
+      "C": "Vi phạm các quy định của pháp luật gây hậu quả về bảo vệ môi trường",
+      "D": "Những hành vi có lỗi do cá nhân, tổ chức thực hiện gây hậu quả đến môi trường"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 63,
+    "question": "Nguyên nhân, điều kiện của vi phạm pháp luật về môi trường là?",
+    "options": {
+      "A": "Sự nhận thức của các cá nhân về bảo vệ môi trường còn hạn chế",
+      "B": "Tuyên truyền của cơ quan Nhà nước về bảo vệ môi trường còn bất cập",
+      "C": "Sự phát triển “quá nhanh” và “nóng” của kinh tế - xã hội...",
+      "D": "Pháp luật về bảo vệ môi trường, về xử lý hành vi vi phạm chưa đủ mạnh..."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 64,
+    "question": "Nguyên nhân về phía đối tượng vi phạm là?",
+    "options": {
+      "A": "Ý thức coi thường pháp luật, không tuân thủ các quy tắc, chuẩn mực xã hội",
+      "B": "Thiếu hiểu biết về luật pháp đối với lĩnh vực bảo vệ môi trường",
+      "C": "Do vụ lợi của các cá nhân, tổ chức dẫn tới coi thường pháp luật",
+      "D": "Do tác động mặt trái của kinh tế thị trường và những hiện tượng tiêu cực khác"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 65,
+    "question": "Phòng, chống vi phạm pháp luật về bảo vệ môi trường là hoạt động:",
+    "options": {
+      "A": "Của các cấp, các nghành, các đoàn thể và mọi công dân",
+      "B": "Của các cơ quan nhà nước, các tổ chức xã hội và công dân",
+      "C": "Của các cơ quan chức năng có nhiệm vụ trong lĩnh vực bảo vệ môi trường",
+      "D": "Của Bộ Tài nguyên Môi trường và các cơ quan chuyên trách"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 66,
+    "question": "Cách giải quyết khi vi phạm pháp luật về bảo vệ môi trường xảy ra?",
+    "options": {
+      "A": "Hạn chế đến mức thấp nhất hậu quả tác hại",
+      "B": "Khắc phục hậu quả, không để ảnh đến môi trường",
+      "C": "Điều tra tìm hiểu nguyên nhân, điều kiện của hành vi vi phạm",
+      "D": "Đề ra chủ trương, biện pháp khắc phục hậu quả"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 67,
+    "question": "Nội dung, biện pháp phòng, chống vi phạm pháp luật về bảo vệ môi trường:",
+    "options": {
+      "A": "Nắm tình hình vi phạm pháp luật về bảo vệ môi trường",
+      "B": "Xác định và làm rõ các nguyên nhân, điều kiện của vi phạm",
+      "C": "Tổ chức lực lượng tiến hành các hoạt động khắc phục",
+      "D": "Tất cả đều đúng"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 68,
+    "question": "Các biện pháp phòng, chống vi phạm pháp luật về bảo vệ môi trường:",
+    "options": {
+      "A": "Các biện pháp phòng, chống chung và cụ thể",
+      "B": "Sử dụng nhiều biện pháp trong lĩnh vực bảo vệ môi trường",
+      "C": "Tuyên truyền các qui định của Nhà nước về bảo vệ môi trường",
+      "D": "Thành lập lực lượng chuyên trách trong lĩnh vực bảo vệ môi trường"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 69,
+    "question": "Chủ thể tham gia phòng, chống vi phạm pháp luật về bảo vệ môi trường:",
+    "options": {
+      "A": "Là trách nhiệm của các cơ quan, đoàn thể",
+      "B": "Là trách nhiệm của các Ban, Ngành được Nhà nước qui định",
+      "C": "Là trách nhiệm của toàn xã hội.",
+      "D": "Là trách nhiệm của các tổ chức và công dân"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 70,
+    "question": "Trách nhiệm của nhà trường trong phòng, chống vi phạm về bảo vệ môi trường:",
+    "options": {
+      "A": "Tổ chức các buổi tuyên truyền về bảo vệ môi trường",
+      "B": "Tổ chức các buổi tọa đàm, trao đổi về bảo vệ môi trường",
+      "C": "Tổ chức các cuộc thi tìm hiểu về bảo vệ môi trường",
+      "D": "Tất cả đều đúng"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 71,
+    "question": "Trách nhiệm của sinh viên trong phòng, chống vi phạm về bảo vệ môi trường:",
+    "options": {
+      "A": "Nắm vững các quy định của pháp luật về bảo vệ môi trường",
+      "B": "Xây dựng ý thức trách nhiệm trong các hoạt động bảo vệ môi trường",
+      "C": "Tham ra tích cực trong các phong trào về bảo vệ môi trường.",
+      "D": "Tất cả đều đúng"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 72,
+    "question": "Pháp luật về bảo đảm trật tự, an toàn giao thông là gì?",
+    "options": {
+      "A": "Là một bộ phận của hệ thống pháp luật hành chính nhà nước",
+      "B": "Là hệ thống pháp luật của nhà nước qui định về an toàn giao thông",
+      "C": "Là một bộ phận của pháp luật qui định các hành vi vi phạm giao thông",
+      "D": "Là một bộ phận của pháp luật nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 73,
+    "question": "Một trong những vai trò của pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "options": {
+      "A": "Là những qui định của Nhà nước về tổ chức thực hiện bảo đảm TTATGT.",
+      "B": "Là ý chí của Nhà nước để chỉ đạo và tổ chức thực hiện bảo đảm TTATGT.",
+      "C": "Là những qui định cụ thể của Nhà nước để tổ chức thực hiện TTATGT.",
+      "D": "Là một bộ phận của pháp luật qui định các hành vi vi phạm TTATGT."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 74,
+    "question": "Một trong những vai trò của pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "options": {
+      "A": "Là những qui định của Nhà nước về tổ chức thực hiện bảo đảm TTATGT.",
+      "B": "Là cơ sở, công cụ thực hiện chức năng quản lý nhà nước về bảo đảm TTATGT",
+      "C": "Là cơ sở, pháp lý của nhà nước để điều hành quản lý trong lĩnh vực TTATGT",
+      "D": "Là công cụ, pháp lý của nhà nước trong thực hiện về bảo đảm TTATGT"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 75,
+    "question": "Vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông có 2 dạng:",
+    "options": {
+      "A": "Vi phạm do chủ quan và vi phạm do khách quan",
+      "B": "Vi phạm thông thường và vi phạm nghiêm trọng",
+      "C": "Vi phạm hành chính và vi phạm nghiêm trọng",
+      "D": "Vi phạm hành chính và vi phạm hình sự"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 76,
+    "question": "Thế nào là vi phạm hành chính?",
+    "options": {
+      "A": "Là vi phạm do vô tình, khách quan gây ra",
+      "B": "Là hành vi có lỗi mà không phải là tội phạm",
+      "C": "Là vi phạm không gây hậu quả nghiêm trọng",
+      "D": "Là hành vi có lỗi nhưng do nguyên nhân khách quan"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 77,
+    "question": "Vi phạm hình sự về bảo đảm trật tự, an toàn giao thông là gì?",
+    "options": {
+      "A": "Là những hành vi thực hiện cố ý",
+      "B": "Là những hành vi đặc biệt nguy hiểm",
+      "C": "Là những hành vi nguy hiểm cho xã hội",
+      "D": "Là những hành vi gây hậu quả nghiêm trọng"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 78,
+    "question": "Theo điều 260 phạt tù từ 03 năm đến 10 năm, đối với các trường hợp:",
+    "options": {
+      "A": "Không có giấy phép lái xe theo quy định;",
+      "B": "Có sử dụng rượu, bia nồng độ cồn vượt quá qui định",
+      "C": "Bỏ chạy để trốn tránh trách nhiệm...",
+      "D": "Tất cả đều đúng"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 79,
+    "question": "Theo điều 260 phạt tù từ 07 năm đến 15 năm, đối với các trường hợp:",
+    "options": {
+      "A": "Làm chết 03 người trở lên;",
+      "B": "Gây thương tích hoặc gây tổn hại cho sức khỏe của 03 người trở lên...",
+      "C": "Gây thiệt hại về tài sản 1.500.000.000 đồng trở lên.",
+      "D": "Tất cả đều đúng"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 80,
+    "question": "Dấu hiệu của vi phạm hành chính trong bảo đảm trật tự, an toàn giao thông?",
+    "options": {
+      "A": "Hành vi đó là hành vi có lỗi do vô tình, khách quan gây ra",
+      "B": "Hành vi đó là hành vi có lỗi nhưng do nguyên nhân khách quan",
+      "C": "Hành vi đó là hành vi có lỗi nhưng không gây hậu quả nghiêm trọng",
+      "D": "Hành vi đó là hành vi có lỗi được thể hiện dưới hình thức là lỗi cố ý hoặc lỗi vô ý"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 81,
+    "question": "Dấu hiệu của vi phạm hành chính trong bảo đảm trật tự, an toàn giao thông?",
+    "options": {
+      "A": "Hành vi đó là hành vi có lỗi nhưng do nguyên nhân khách quan",
+      "B": "Hành vi đó là hành vi có lỗi nhưng không gây hậu quả nghiêm trọng",
+      "C": "Hành vi đó theo quy định của pháp luật phải bị xử phạt vi phạm hành chính.",
+      "D": "Hành vi đó là hành vi có lỗi nhưng chưa đến mức phải bị xử phạt vi phạm hành sự."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 82,
+    "question": "Nguyên nhân, điều kiện của vi phạm pháp luật về trật tự, an toàn giao thông?",
+    "options": {
+      "A": "Cơ sở hạ tầng giao thông còn nhiều hạn chế, bất cập",
+      "B": "Quản lý của các cơ quan chức năng còn nhiều hạn chế, yếu kém.",
+      "C": "Nhận thức về pháp luật của người tham gia giao thông còn hạn chế",
+      "D": "Quản lý nhà nước về hoạt động giao thông còn nhiều yếu kém, hạn chế."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 83,
+    "question": "Nguyên nhân, điều kiện của vi phạm pháp luật về trật tự, an toàn giao thông?",
+    "options": {
+      "A": "Cơ sở hạ tầng giao thông còn nhiều hạn chế, bất cập",
+      "B": "Tác động tiêu cực của các yếu tố thiên nhiên, môi trường",
+      "C": "Quản lý của các cơ quan chức năng còn nhiều hạn chế, yếu kém.",
+      "D": "Nhận thức về pháp luật của người tham gia giao thông còn hạn chế"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 84,
+    "question": "Phòng ngừa vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là:",
+    "options": {
+      "A": "Hoạt động của lực lượng cảnh sát giao thông",
+      "B": "Hoạt động của các lực lượng đảm bảo an toàn giao thông",
+      "C": "Hoạt động của cơ quan có thẩm quyền đảm bảo an toàn giao thông",
+      "D": "Hoạt động của các cơ quan Nhà nước, các tổ chức xã hội và công dân"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 85,
+    "question": "Đấu tranh chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là:",
+    "options": {
+      "A": "Hoạt động của các cơ quan quản lý nhà nước có thẩm quyền",
+      "B": "Hoạt động của lực lượng công an và lực lượng cảnh sát giao thông",
+      "C": "Hoạt động của các tổ chức, các ngành, các cấp và toàn xã hội",
+      "D": "Hoạt động của cơ quan có thẩm quyền đảm bảo an toàn giao thông"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 86,
+    "question": "Trách nhiệm của sinh viên trong phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông:",
+    "options": {
+      "A": "Nêu cao ý thức chấp hành luật giao thông",
+      "B": "Tích cực tham gia xây dựng văn hóa giao thông",
+      "C": "Có trách nhiệm trong việc đảm bảo an toàn giao thông",
+      "D": "Tất cả đều đúng."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 87,
+    "question": "Một trong những công cụ quan trọng bảo vệ quyền con người là?",
+    "options": {
+      "A": "Thực hiện biện pháp hành chính",
+      "B": "Thực hiện chuẩn mực xã hội theo quan điểm đạo đức",
+      "C": "Cụ thể hóa các chế định bảo vệ quyền con người",
+      "D": "Theo phong tục, thói quen để bảo vệ con người"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 88,
+    "question": "Bảo vệ con người là:",
+    "options": {
+      "A": "Bảo vệ tính mạng của con người",
+      "B": "Bảo vệ sức khỏe của con người",
+      "C": "Bảo vệ danh dự nhân phẩm của con người",
+      "D": "Tất cả đều đúng"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 89,
+    "question": "Danh dự, nhân phẩm của con người được hình thành như thế nào?",
+    "options": {
+      "A": "Hình thành trong quá trình hoạt động thực tiễn xã hội của con người",
+      "B": "Hình thành khi con người mới sinh ra",
+      "C": "Hình thành qua quá trình học tập",
+      "D": "Tất cả đều đúng"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 90,
+    "question": "Theo luật Hình sự Việt Nam các tội xâm phạm DDNP của con người gồm:",
+    "options": {
+      "A": "Các tội xâm phạm tình dục; Các tội mua bán người,",
+      "B": "Các tội làm nhục người khác và nhóm tội khác",
+      "C": "Lây truyền HIV; chống người thi hành công vụ",
+      "D": "Tất cả đều đúng"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 91,
+    "question": "Có mấy nguyên nhân, điều kiện của tình trạng phạm DDNP?",
+    "options": {
+      "A": "Có 6 nguyên nhân, điều kiện",
+      "B": "Có 7 nguyên nhân, điều kiện",
+      "C": "Có 8 nguyên nhân, điều kiện",
+      "D": "Có 9 nguyên nhân, điều kiện"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 92,
+    "question": "Trong phòng chống tội phạm thì:",
+    "options": {
+      "A": "Phòng ngừa mang ý nghĩa chính trị - xã hội, giữ vững an ninh chính trị, trật tự xã hội.",
+      "B": "Phòng ngừa mang ý nghĩa kinh tế sâu sắc, tiết kiệm tiền của của Nhà nước và của nhân dân.",
+      "C": "Phòng ngừa mang tính đồng bộ, hệ thống kết hợp giữa nhà nước với tổ chức xã hội và công dân.",
+      "D": "Phòng ngừa là phương hướng chính, là tư tưởng chỉ đạo, phòng ngừa không để tội phạm xảy ra."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 93,
+    "question": "Ý nghĩa chính trị, xã hội của công tác phòng chống tội phạm?",
+    "options": {
+      "A": "Giúp giữ vững an ninh quốc gia, giữ gìn trật tự an toàn xã hội.",
+      "B": "Trấn áp tội phạm, xây dựng địa phương trong sạch, lành mạnh",
+      "C": "Khắc phục, thủ tiêu những nguyên nhân của tình trạng phạm tội.",
+      "D": "Hạn chế đến mức thấp nhất hậu quả, tác hại khi tội phạm xảy ra."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 94,
+    "question": "Làm tốt công tác phòng ngừa tội phạm có ý nghĩa kinh tế gì?",
+    "options": {
+      "A": "Tiết kiệm ngân sách, sức lao động của nhân viên Nhà nước, của công dân",
+      "B": "Bảo đảm cho nhân dân được an tâm tham gian lao động sản xuất",
+      "C": "Không cần phải tổ chức lực lượng phòng chống tội phạm tốn kém.",
+      "D": "Không cần giải quyết các vấn đề liên quan đến phòng chống tội phạm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 95,
+    "question": "Công tác phòng chống tội phạm cần tiến hành theo hướng nào?",
+    "options": {
+      "A": "Phát hiện, khắc phục, hạn chế và đi đến thủ tiêu các hiện tượng xã hội tiêu cực",
+      "B": "Xác định đúng nguyên nhân, điều kiện của tình trạng tội phạm.",
+      "C": "Xác định đúng nghuyên nhân điều kiện cấu thành tội phạm",
+      "D": "Xác định đúng chủ trương, từng bước xoá bỏ nguyên nhân, điều kiện của tội phạm."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 96,
+    "question": "Mục đích của công tác phòng ngừa tội phạm:",
+    "options": {
+      "A": "Là tìm ra các nguyên nhân, điều kiện của tình trạng phạm tội",
+      "B": "Là ngăn chặn, hạn chế, làm giảm từng bước tiến tới loại trừ tội phạm",
+      "C": "Là khắc phục, thủ tiêu các nguyên nhân, điều kiện của tình trạng phạm tội",
+      "D": "Là kiên quyết triệt để thủ tiêu tội phạm."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 97,
+    "question": "Phòng chống tệ nạn XH là trách nhiệm của chủ thể nào?",
+    "options": {
+      "A": "Cơ quan công an, an ninh nhân dân",
+      "B": "Quốc hội, hội đồng nhân dân các cấp.",
+      "C": "Công an, cảnh sát, Gia đình, nhà trường",
+      "D": "Công an, cảnh sát, toà án, viện kiểm sát."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 98,
+    "question": "Chức năng của Chính phủ và Uỷ ban nhân dân trong phòng chống tội phạm là:",
+    "options": {
+      "A": "Tổ chức Nhà nước về điều hành công tác phòng chống tội phạm",
+      "B": "Quản lí, điều hành, phối hợp, đảm bảo các điều kiện cần thiết",
+      "C": "Có chức năng quản lí Nhà nước trong công tác phòng chống tội phạm",
+      "D": "Phối hợp với các tổ chức trong công tác phòng chống tội phạm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 99,
+    "question": "Công dân với tư cách là chủ thể trong phòng chống tội phạm phải:",
+    "options": {
+      "A": "Thực hiện tốt các quyền, nghĩa vụ của công dân đã được quy định trong Hiến pháp",
+      "B": "Tích cực, chủ động, đấu tranh với các loại tội phạm",
+      "C": "Tham gia nhiệt tình có hiệu quả vào các hoạt động phòng ngừa, ngăn chặn tội phạm",
+      "D": "Trực tiếp làm tốt công tác phòng ngừa tội phạm ở địa phương"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 100,
+    "question": "Nguyên tắc tổ chức hoạt động phòng chống tội phạm là:",
+    "options": {
+      "A": "Nguyên tắc pháp chế; dân chủ xã hội chủ nghĩa",
+      "B": "Nhân đạo trong phòng ngừa, phối hợp chặt chẽ giữa các chủ thể",
+      "C": "Khoa học và tiến bộ; cụ thể hóa trong phòng ngừa tội phạm",
+      "D": "Tất cả đều đúng."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 101,
+    "question": "Tổ chức tiến hành các hoạt động phòng ngừa tội phạm:",
+    "options": {
+      "A": "Tích cực, chủ động trong các hoạt động phòng ngừa tội phạm",
+      "B": "Tăng cường hiệu lực công tác quản lý nhà nước về trật tự xã hội",
+      "C": "Đổi mới các hoạt động, nâng cao hiệu quả phòng, chống tội phạm",
+      "D": "Thường xuyên phát động phong trào phòng chống tội phạm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 102,
+    "question": "Trong phòng chống tội phạm thì phòng ngừa chung là:",
+    "options": {
+      "A": "Tổng hợp tất cả các biện pháp về chính trị, kinh tế, văn hoá, pháp luật, giáo dục.",
+      "B": "Tổng hợp tất cả các biện pháp về chính trị tư tưởng, kinh tế xã hội và xây dựng nếp sống văn hoá",
+      "C": "Tổng hợp tất cả các biện pháp về xây dựng đạo đức, lối sống kết hợp với phát triển kinh tế xã hội",
+      "D": "Tổng hợp tất cả các biện pháp kết hợp giữa hành chính và cưỡng bức phạt tù theo luật định."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 103,
+    "question": "Vai trò, trách nhiệm chính của nhà trường trong đấu tranh phòng chống tội phạm?",
+    "options": {
+      "A": "Kết hợp với các tổ chức, đoàn thể quần chúng phát hiện phòng chống tội phạm.",
+      "B": "Tuyên truyền giáo dục các chương trình quốc gia phòng chống tội phạm",
+      "C": "Kết hợp với lực lượng công an địa phương  phát hiện, đấu tranh xử lí tội phạm.",
+      "D": "Chủ động nghiên cứu các chủ trương biện pháp để phòng chống tội phạm."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 104,
+    "question": "Vai trò, trách nhiệm chính của nhà trường trong đấu tranh phòng chống tội phạm?",
+    "options": {
+      "A": "Phối hợp với các lực lượng, đoàn thể quần chúng phát hiện phòng chống tội phạm.",
+      "B": "Tổ chức cho sinh viên tham gia kí kết không tham gia tệ nạn xã hội",
+      "C": "Kết hợp với lực lượng công an địa phương  phát hiện, đấu tranh xử lí tội phạm.",
+      "D": "Thường xuyên tổ chức sơ, tổng kết rút kinh nghiệm trong đấu tranh phòng chống"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 105,
+    "question": "Trách nhiệm của sinh viên trong đấu tranh phòng chống tội phạm?",
+    "options": {
+      "A": "Tích cực học tập năng cao nhận thức về pháp luật",
+      "B": "Tích cực tham gia các tổ chức phòng chống tội phạm",
+      "C": "Tuyên truyền phổ biến pháp luật cho mọi người.",
+      "D": "Chấp hành nghiêm các qui chế do nhà trường đề ra"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 106,
+    "question": "Để phòng ngừa hậu quả của tội phạm ở trường lớp, theo em cần:",
+    "options": {
+      "A": "Nhận thức rõ hậu quả, không tham gia vào các tệ nạn xã hội dưới bất cứ hình thức nào",
+      "B": "Nhận thức rõ trách nhiệm, không ngừng học tập và nâng cao tri thức, hiểu biết pháp luật",
+      "C": "Cung cấp cho cơ quan chức năng những thông tin có liên quan đến vụ việc - người phạm tội",
+      "D": "trách nhiệm tự bảo vệ mình, ký kết không tham gia các hoạt động tệ nạn xã hội và tội phạm"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 107,
+    "question": "Thông tin là gì?",
+    "options": {
+      "A": "Là sự phản ánh thế giới tự nhiên, xã hội và tư duy của con người.",
+      "B": "Là sự phản ánh về một đối tượng trong quá trình hoạt động thực tiễn.",
+      "C": "Là sự phản ánh của tự nhiên và xã hội bằng ngôn từ, ký hiệu, hình ảnh.",
+      "D": "Là sự phản ánh thế giới khách quan của con người trong quá trình hoạt động."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 108,
+    "question": "Thông tin có vai trò gì?",
+    "options": {
+      "A": "Là một loại nguồn lực đặc biệt quan trọng.",
+      "B": "Giúp con người nhận biết các sự vật, hiện tượng.",
+      "C": "Giúp con người trong giao tiếp và hoạt động xã hội.",
+      "D": "Tất cả đều đúng."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 109,
+    "question": "An toàn thông tin là gì?",
+    "options": {
+      "A": "An toàn tuyệt đối bí mật các thông tin về an ninh quốc gia",
+      "B": "An toàn kỹ thuật cho các hoạt động của các cơ sở hạ tầng thông tin.",
+      "C": "An toàn của các dữ liệu trong quá trình truyền tải qua các phương tiện.",
+      "D": "An toàn trong thực hiện đường lối chủ trương chính sách của Đảng, Nhà nước."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 110,
+    "question": "Thực trạng thông tin ở Việt Nam?",
+    "options": {
+      "A": "Phá hoại hạ tầng mạng thông tin, ảnh hưởng tới an ninh quốc gia",
+      "B": "An toàn an ninh mạng tiếp tục diễn biến phức tạp",
+      "C": "Tồn tại nhiều cơ sở gây nguy cơ bị tấn công",
+      "D": "Tất cả đều đúng."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 111,
+    "question": "Một trong những nguyên tắc bảo vệ không gian mạng là:",
+    "options": {
+      "A": "Tuân thủ Hiến pháp và pháp luật",
+      "B": "Thực hiện tốt các qui định của Nhà nước",
+      "C": "Nghiêm cấm xuyên tạc chủ trương của Đảng, Nhà nước",
+      "D": "Chủ động phát hiện, phòng ngừa các hoạt động vi phạm pháp luật"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 112,
+    "question": "Một trong những nguyên tắc bảo vệ không gian mạng là:",
+    "options": {
+      "A": "Thực hiện tốt các qui định của Nhà nước",
+      "B": "Nghiêm cấm xuyên tạc chủ trương của Đảng, Nhà nước",
+      "C": "Chủ động phát hiện, phòng ngừa các hoạt động vi phạm pháp luật",
+      "D": "Phát huy vai trò nòng cốt của lực lượng chuyên trách bảo vệ an ninh mạng"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 113,
+    "question": "Điều 101 Nghị định 15 qui định mức xử phạt hành vi lợi dụng mạng xã hội để cung cấp, chia sẻ thông tin giả mạo...",
+    "options": {
+      "A": "Phạt tiền từ 5 đến 10 triệu đồng.",
+      "B": "Phạt tiền từ 10 đến 20 triệu đồng.",
+      "C": "Phạt tiền từ 20 đến 25 triệu đồng.",
+      "D": "Phạt tiền từ 20 đến 30 triệu đồng."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 114,
+    "question": "Mức phạt đối với hành vi gửi hoặc phát tán thư điện tử rác, tin nhắn rác, phần mềm độc hại:",
+    "options": {
+      "A": "Phạt tiền 60 triệu đồng",
+      "B": "Phạt tiền 70 triệu đồng",
+      "C": "Phạt tiền 80 triệu đồng",
+      "D": "Phạt tiền 90 triệu đồng"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 115,
+    "question": "Điều 16, thông tin trên không gian mạng có nội dung tuyên truyền chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam bao gồm:",
+    "options": {
+      "A": "Tuyên truyền xuyên tạc, phỉ báng chính quyền nhân dân;",
+      "B": "Xúc phạm dân tộc, quốc kỳ, quốc huy, quốc ca, vĩ nhân, lãnh tụ, danh nhân, anh hùng dân tộc",
+      "C": "Chiến tranh tâm lý, kích động chiến tranh xâm lược, chia rẽ, gây thù hận giữa các dân tộc, tôn giáo và nhân dân các nước;",
+      "D": "Tất cả đều đúng."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 116,
+    "question": "Một trong các biện pháp, phòng chống trên không gian mạng là:",
+    "options": {
+      "A": "Giáo dục nâng cao cảnh giác về đảm bảo an toàn thông tin, các lợi ích và sự nguy hại đến từ không gian mạng.",
+      "B": "Giáo dục nâng cao nhận thức về bảo vệ chủ quyền quốc gia, các lợi ích và sự nguy hại đến từ không gian mạng.",
+      "C": "Giáo dục ý thức cho mọi người trong việc bảo mật các thông tin của Đảng, Nhà nước và các tổ chức chính trị-xã hội.",
+      "D": "Giáo dục nâng cao cảnh giác cách mạng chống mọi thủ đoạn vi phạm an toàn thông tin và sự nguy hại đến từ không gian mạng."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 117,
+    "question": "Bảo vệ không gian mạng của quốc gia là:",
+    "options": {
+      "A": "Bảo vệ các thông tin của Đảng, Nhà nước",
+      "B": "Bảo vệ các lợi ích quốc gia và dân tộc",
+      "C": "Bảo vệ các hệ thống thông tin",
+      "D": "Bảo vệ an toàn thông tin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 118,
+    "question": "Một trong các biện pháp, phòng chống trên không gian mạng là:",
+    "options": {
+      "A": "Tuyên truyền, giáo dục các quy định của Đảng, Nhà nước về quản lý không gian mạng.",
+      "B": "Tuyên truyền đường lối, chủ trương của Đảng, Nhà nước  về quản lý không gian mạng.",
+      "C": "Tuyên truyền, phổ biến, giáo dục các quy định của pháp luật về quản lý không gian mạng.",
+      "D": "Tuyên truyền các quy định của pháp luật cho mọi người về quản lý không gian mạng."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 119,
+    "question": "Một trong các biện pháp, phòng chống trên không gian mạng là:",
+    "options": {
+      "A": "Bồi dưỡng kiến thức và  các kỹ năng phòng, chống tấn công mạng và các hành động phát tán trên không gian mạng.",
+      "B": "Bồi dưỡng kỹ năng nhận diện các âm mưu, thủ đoạn tấn công mạng và các hình thái phát sinh trên không gian mạng.",
+      "C": "Bồi dưỡng kỹ năng, chuyên môn nghiệp vụ về thủ đoạn tấn công mạng và các hình thái phát sinh trên không gian mạng.",
+      "D": "Bồi dưỡng kỹ năng cho đội ngũ nhân viên, chuyên trách làm công tác thông tin nhận diện các âm mưu, thủ đoạn tấn công trên không gian mạng."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 120,
+    "question": "Các biện pháp kỹ thuật bảo đảm an toàn thông tin:",
+    "options": {
+      "A": "Bảo vệ tài khoản cá nhân",
+      "B": "Tạo thói quen quét virus",
+      "C": "Sao lưu dự phòng trên ổ cứng ngoài"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 121,
+    "question": "Các cơ quan chuyên trách an ninh mạng",
+    "options": {
+      "A": "Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an",
+      "B": "Lực lượng bảo vệ an ninh mạng tại bộ, ngành, ủy ban nhân dân tỉnh...",
+      "C": "Bộ Tư lệnh Tác chiến không gian mạng, Bộ Quốc phòng",
+      "D": "Tất cả đều đúng."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 122,
+    "question": "Một trong các mục tiêu của an ninh quốc gia là:",
+    "options": {
+      "A": "Bảo vệ lợi ích quốc gia dân tộc",
+      "B": "Củng cố nền tảng vững chắc bên trong",
+      "C": "Bảo vệ quyền lợi của quần chúng nhân dân lao động",
+      "D": "Bảo vệ trật tự, an toàn xã hội"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 123,
+    "question": "Một trong các mục tiêu của an ninh quốc gia là:",
+    "options": {
+      "A": "Bảo vệ lợi ích quốc gia dân tộc",
+      "B": "Bảo vệ quyền lợi của quần chúng nhân dân lao động",
+      "C": "Bảo vệ vững chắc chủ quyền và thể chế chính trị quốc gia.",
+      "D": "Bảo vệ trật tự, an toàn xã hội"
+    },
+    "correct_answer": "C"
+
+  },
+  {
+    "id": 124,
+    "question": "Một trong những nội dung của an ninh quốc gia là gì?",
+    "options": {
+      "A": "Bảo vệ lãnh thổ quốc gia",
+      "B": "An ninh quân sự, an ninh xã hội",
+      "C": "Phòng ngừa sự chống phá từ bên trong",
+      "D": "Phòng ngừa sự chống phá từ bên ngoài"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 125,
+    "question": "Trọng tâm bảo đảm an ninh quốc gia là gì?",
+    "options": {
+      "A": "Bảo vệ lợi ích và chủ quyền quốc gia",
+      "B": "Bảo vệ lãnh thổ quốc gia",
+      "C": "Phòng ngừa sự chống phá từ bên trong",
+      "D": "Phòng ngừa sự chống phá từ bên ngoài"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 126,
+    "question": "Một trong những thách thức, nguy cơ đối với an ninh quốc gia là:",
+    "options": {
+      "A": "Nguy cơ xâm phạm chủ quyền biển, đảo",
+      "B": "Nguy cơ đến lợi ích quốc gia dân tộc",
+      "C": "Nguy cơ đến quyền lợi của quần chúng nhân dân lao động",
+      "D": "Nguy cơ đến bảo vệ trật tự, an toàn xã hội"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 127,
+    "question": "Phương hướng, nhiệm vụ bảo vệ an ninh quốc gia là:",
+    "options": {
+      "A": "Xây dựng lực lượng vũ trang tinh nhuệ về chính trị",
+      "B": "Đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước",
+      "C": "Phát huy mạnh mẽ sức mạnh tổng hợp của toàn dân tộc",
+      "D": "Xây dựng khối đại đoàn kết toàn dân tộc vững mạnh"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 128,
+    "question": "An ninh phi truyền thống xuất hiện vào thời kỳ nào?",
+    "options": {
+      "A": "Xuất hiện sau chiến tranh thế giới thứ nhất",
+      "B": "Xuất hiện sau chiến tranh thế giới thứ hai",
+      "C": "Xuất hiện sau chiến tranh giải phóng ở Việt Nam 1975",
+      "D": "Xuất hiện trong vài thập niên gần đây"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 129,
+    "question": "Thế nào là an ninh phi truyền thống?",
+    "options": {
+      "A": "Là an ninh có ảnh hưởng đến mọi mặt của một quốc gia dân tộc",
+      "B": "Là an ninh gây nên sự khủng hoảng toàn diện của đời sống xã hội",
+      "C": "Là an ninh do các thế lực thù địch trong và ngoài nước tạo ra",
+      "D": "Là an ninh do những yếu tố phi chính trị, phi quân sự gây ra"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 130,
+    "question": "Một trong những nội dung của an ninh phi truyền thống là:",
+    "options": {
+      "A": "Phân hóa giàu nghèo ngày càng ra tăng",
+      "B": "Cạn kiệt tài nguyên, ô nhiễm môi trường",
+      "C": "Xuất hiện các loại tệ nạn và tội phạm xã hội",
+      "D": "Gây ra những cuộc khủng hoảng kinh tế - xã hội"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 131,
+    "question": "Quá trình toàn cầu hóa quốc tế ảnh hưởng đến an ninh phi truyền thống như thế nào?",
+    "options": {
+      "A": "An ninh phi truyền thống ngày càng thu hẹp hơn",
+      "B": "An ninh phi truyền thống ngày càng kiểm soát tốt hơn",
+      "C": "An ninh phi truyền thống ngày càng phức tạp hơn",
+      "D": "An ninh phi truyền thống ngày càng đậm nét hơn"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 132,
+    "question": "Giải quyết các nội dung của an ninh phi truyền thống là nhiệm vụ của:",
+    "options": {
+      "A": "Các nước công nghiệp phát triển",
+      "B": "Là nhiệm vụ mang tính toàn cầu",
+      "C": "Của lực lượng gìn giữ hòa bình thế giới",
+      "D": "Các nước lạc hậu kinh tế kém phát triển"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 133,
+    "question": "Một trong những thách thức của an ninh phi truyền thống đối với nước ta là:",
+    "options": {
+      "A": "Làm cho biến đổi khí hậu",
+      "B": "Làm cho khoảng cách giàu, nghèo ra tăng",
+      "C": "Làm ảnh hưởng đến sự phát triển kinh tế - xã hội",
+      "D": "Là nguyên nhân gây mất ổn định chính trị, xã hội"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 134,
+    "question": "Một trong những thách thức của an ninh phi truyền thống đối với nước ta là:",
+    "options": {
+      "A": "Làm cho nền kinh tế kém phát triển",
+      "B": "Làm cho mâu thuẫn trong xã hội ra tăng",
+      "C": "Là nguyên nhân dẫn đến tội phạm xã hội",
+      "D": "Là nguyên nhân gây mất ổn định chính trị, xã hội"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 135,
+    "question": "Một trong những thách thức của an ninh phi truyền thống đối với nước ta là:",
+    "options": {
+      "A": "Làm cho tội phạm kinh tế - xã hội gia tăng",
+      "B": "Làm suy giảm đến sự phát triển kinh tế - xã hội",
+      "C": "Là nguyên nhân dẫn đến mất trật tự an toàn xã hội",
+      "D": "Làm mất lòng tin của nhân dân đối với Đảng, Nhà nước"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 136,
+    "question": "Thách thức của an ninh phi truyền thống đối với lĩnh vực quốc phòng an ninh là:",
+    "options": {
+      "A": "Đe dọa đến an ninh chính trị đất nước",
+      "B": "Đe dọa trực tiếp đến quốc phòng an ninh",
+      "C": "Cản trở đến xây dựng nền quốc phòng toàn dân",
+      "D": "Cản trở đến quá trình xây dựng Quân đội trong tình hình mới"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 137,
+    "question": "Một trong các giải pháp với các mối đe dọa an ninh phi truyền thống là:",
+    "options": {
+      "A": "Nâng cao cảnh giác giữ vững chủ quyền an ninh quốc gia",
+      "B": "Nâng cao nhận thức về các mối đe dọa an ninh phi truyền thống",
+      "C": "Nâng cao cảnh giác tích cực tham gia các hoạt động phòng chống",
+      "D": "Nâng cao tinh thần cảnh giác cách mạng, phát hiện, đấu tranh, ngăn ngừa"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 138,
+    "question": "Một trong các giải pháp với các mối đe dọa an ninh phi truyền thống là:",
+    "options": {
+      "A": "Chủ động, tích cực phòng ngừa, ứng phó",
+      "B": "Chủ động trong xây dựng kế hoạch phòng chống",
+      "C": "Chủ động ứng phó có hiệu quả với các mối đe dọa",
+      "D": "Chủ động và tích cực đầu tư cho công tác phòng chống"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 139,
+    "question": "Trong chủ động phòng ngừa, ứng phó cần:",
+    "options": {
+      "A": "Phân loại từng lĩnh vực",
+      "B": "Chủ động và tích cực đầu tư",
+      "C": "Chủ động xây dựng lực lượng",
+      "D": "Tất cả đều đúng."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 140,
+    "question": "Một trong các giải pháp với các mối đe dọa an ninh phi truyền thống là:",
+    "options": {
+      "A": "Phát huy vai trò của các tổ chức quần chúng",
+      "B": "Phát huy sức mạnh tổng hợp của hệ thống chính trị",
+      "C": "Chủ động trong xây dựng kế hoạch phòng ngừa ứng phó",
+      "D": "Phát huy vai trò của các tổ chức tự quản trong phòng ngừa"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 141,
+    "question": "Trong giải pháp tăng cường hợp tác quốc tế về phòng ngừa cần:",
+    "options": {
+      "B": "Xây dựng cơ chế lòng tin",
+      "C": "Tăng cường chia sẻ thông tin",
+      "D": "Tất cả đều đúng."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 142,
+    "question": "Huy động nguồn lực tài chính bằng:",
+    "options": {
+      "A": "Nguồn tài chính ngân sách",
+      "B": "Nguồn tài chính doanh nghiệp",
+      "C": "Nguồn tài chính xã hội hóa",
+      "D": "Tất cả đều đúng"
+    },
+    "correct_answer": "D"
+  }
+]
